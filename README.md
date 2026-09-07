@@ -14,9 +14,9 @@ To keep this space clean, all codes are organized inside chronologically ordered
 *   **📁 [urldetector](./urldetector)** 
     * *Description:* A starter python code to detect safety of entered url.
     * *Status:* Completed
-*   **📁 [upcoming project]**
-    * *Description:* Data structures, object-oriented concepts, and automation tools as my college curriculum progresses.
-    * *Status:* Upcoming
+*   **📁 [currency converter](./currencyconverter)**
+    * *Description:* 
+    * *Status:* Completed
 
 ---
 
