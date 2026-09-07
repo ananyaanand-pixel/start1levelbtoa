@@ -15,7 +15,7 @@ To keep this space clean, all codes are organized inside chronologically ordered
     * *Description:* A starter python code to detect safety of entered url.
     * *Status:* Completed
 *   **📁 [currency converter](./currencyconverter)**
-    * *Description:* 
+    * *Description:* A lightweight, terminal-based Python tool that allows users to quickly convert major global currencies into Indian Rupees (INR).
     * *Status:* Completed
 
 ---
