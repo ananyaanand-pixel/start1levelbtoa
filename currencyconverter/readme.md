@@ -1,6 +1,6 @@
 # Currency Converter CLI
 
-A lightweight, terminal-based Python tool that allows users to quickly convert major global currencies into Indian Rupees (INR). It uses fixed exchange rates calibrated to August 24, 2026.This utility is ideal for beginners learning Python script execution, input handling, and conditional control flows.
+A lightweight, terminal-based Python tool that allows users to quickly convert major global currencies into Indian Rupees (INR). It uses fixed exchange rates calibrated to August 24, 2026.
 
 ## ✨ Features
 
