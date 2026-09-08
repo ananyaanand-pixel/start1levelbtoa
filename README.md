@@ -53,5 +53,3 @@ To run any script from this repository locally on your machine, ensure you have 
 - [ ] Deploy lightweight scripts to Cloud environments
 
 ---
-
-
