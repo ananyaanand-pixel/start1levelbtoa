@@ -1,1 +1,2 @@
-atm machine work
+## atm machine 
+basic linage of  data using python.
